@@ -13,6 +13,18 @@ site_theme: "default"
 include:
   - _pages
 
+exclude:
+  - README.md
+  - AGENTS.md
+  - Dockerfile
+  - docker-compose.yaml
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - scripts
+  - markdown_generator
+  - talkmap
+
 markdown: kramdown
 highlighter: rouge
 encoding: "utf-8"
