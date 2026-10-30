@@ -4,7 +4,7 @@ title_separator: "-"
 name: "Junteng Liu"
 description: "Junteng Liu's academic portfolio"
 url: "https://wishanemone83.github.io"
-baseurl: "/LJT-Homepage"
+baseurl: "/LJT-Homepage/docs"
 repository: "WishAnemone83/LJT-Homepage"
 locale: "en-US"
 site_theme: "default"
@@ -24,6 +24,7 @@ exclude:
   - scripts
   - markdown_generator
   - talkmap
+  - docs
 
 markdown: kramdown
 highlighter: rouge
