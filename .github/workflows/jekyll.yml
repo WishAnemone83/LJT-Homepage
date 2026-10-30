@@ -4,22 +4,14 @@ on:
   push:
     branches:
       - master
-    paths-ignore:
-      - "docs/**"
-      - "index.html"
-      - ".nojekyll"
   workflow_dispatch:
 
 permissions:
   contents: write
-  pages: read
-
-concurrency:
-  group: "pages"
-  cancel-in-progress: true
 
 jobs:
   build:
+    if: github.event_name == 'workflow_dispatch' || github.event.head_commit.message != 'Deploy built Jekyll site to docs'
     runs-on: ubuntu-24.04
     steps:
       - name: Checkout
