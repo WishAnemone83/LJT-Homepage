@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/universal-truthfulness-hyperplane/
 order: 3
-date: 2024
+date: 2024-01-01
 venue: 'EMNLP 2024'
 excerpt: |
   First-author paper on the universal truthfulness hyperplane inside LLMs.

@@ -4,7 +4,7 @@ collection: publications
 category: preprints
 permalink: /publication/perception-bottleneck-vlms/
 order: 2
-date: 2025
+date: 2025-01-01
 venue: 'arXiv'
 excerpt: |
   First-author paper on the perception bottleneck of vision-language models for chart understanding.

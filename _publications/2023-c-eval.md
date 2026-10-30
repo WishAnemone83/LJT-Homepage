@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/c-eval/
 order: 5
-date: 2023
+date: 2023-01-01
 venue: 'NeurIPS 2023'
 excerpt: |
   Co-authored paper introducing a multi-level, multi-discipline Chinese evaluation suite for foundation models.

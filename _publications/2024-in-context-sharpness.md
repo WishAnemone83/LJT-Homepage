@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/in-context-sharpness/
 order: 4
-date: 2024
+date: 2024-01-01
 venue: 'ICML 2024'
 excerpt: |
   Co-authored paper presenting an inner representation perspective for hallucination mitigation.

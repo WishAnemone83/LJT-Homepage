@@ -4,7 +4,7 @@ collection: publications
 category: preprints
 permalink: /publication/synlogic/
 order: 1
-date: 2025
+date: 2025-01-01
 venue: 'arXiv'
 excerpt: |
   First-author paper on synthesizing verifiable reasoning data at scale for learning logical reasoning and beyond.
